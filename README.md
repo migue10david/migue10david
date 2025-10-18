@@ -2,14 +2,10 @@
 
 ### Hi there 👋 I'm Miguel David Lau Medina,
 
-I'm a second year software engineering undergraduate at University of Kelaniya and I'm also following a applied statistics diploma at IASSL.
-
-- ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- 🔭 I’m currently studying:
-	- Mobile Application Development 
-	- Web Application Development 
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Space, Philosophy, Science, anything that interests you.
+Experiencia en el desarrollo de interfaces de usuario modernas, dinámicas y accesibles, con enfoque en
+rendimiento, usabilidad y escalabilidad. Capacidad para integrar eficientemente servicios y APIs,
+construyendo experiencias interactivas que conectan el frontend con datos en tiempo real.
+Motivado para aportar creatividad, atención al detalle y conocimientos técnicos a un equipo innovador.
 
 ## My Skills Include
 
